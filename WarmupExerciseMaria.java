@@ -10,6 +10,7 @@ public class Day2 {
         String[] stringInputs = {"", "", ""};
         int[] numberInputs = {0, 0, 0};
 
+        //This is the main loop
         while (attempts <= MAX_ALLOWED_ATTEMPTS) {
 
             Scanner scanner = new Scanner(System.in);
